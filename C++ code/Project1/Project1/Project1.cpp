@@ -1,5 +1,5 @@
 // Project1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// WHAT TO ADD LATER: LEVEL SYSTEM. and achievement system + class levels
+// IF player get certain XP, increase level
 
 
 
