@@ -1,0 +1,22 @@
+﻿  Project1.cpp
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(194,6): warning C4101: 'dl': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(193,6): warning C4101: 'a_dl': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(208,6): warning C4101: 'price': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(210,6): warning C4101: 'waves_amount': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(209,6): warning C4101: 'level': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(184,6): warning C4101: 'xp': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(185,6): warning C4101: 'p': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(200,6): warning C4101: 'hp': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(188,6): warning C4101: 'a_d': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(178,6): warning C4101: 's': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(198,6): warning C4101: 'pr': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(180,6): warning C4101: 'x': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(183,6): warning C4101: 'h': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(204,6): warning C4101: 'hpp': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(199,6): warning C4101: 'pc': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(205,6): warning C4101: 'prf': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(190,6): warning C4101: 'r': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(189,6): warning C4101: 'd': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(195,6): warning C4101: 'r_tl': unreferenced local variable
+C:\Users\user\source\repos\Project1\Project1\Project1.cpp(179,6): warning C4101: 'dg': unreferenced local variable
+  Project1.vcxproj -> C:\Users\user\source\repos\Project1\x64\Debug\Project1.exe
