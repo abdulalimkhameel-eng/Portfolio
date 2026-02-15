@@ -16,10 +16,10 @@ struct worker :public Human {
     string workplace;
 
     worker(string n, int a, string j, string wp) {
-        this->name = name;
-        this->age = age;
-        this->job = job;
-        this->workplace = workplace;
+        this->name = n;
+        this->age = a;
+        this->job = j;
+        this->workplace = wp;
 	}
 
 };
