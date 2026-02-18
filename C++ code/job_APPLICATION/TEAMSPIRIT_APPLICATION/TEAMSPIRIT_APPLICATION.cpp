@@ -1,5 +1,3 @@
-// TEAMSPIRIT_APPLICATION.cpp 
-//
 
 #include <iostream>
 #include <string>

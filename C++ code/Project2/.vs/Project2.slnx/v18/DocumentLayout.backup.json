@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{244F2460-9A91-420A-A35E-FB062FD2ED67}|Project2\\Project2.vcxproj|C:\\Users\\user\\source\\repos\\Project2\\Project2\\Project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{244F2460-9A91-420A-A35E-FB062FD2ED67}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Project2\\Project2\\Project2.cpp",
+              "RelativeDocumentMoniker": "Project2\\Project2.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Project2\\Project2\\Project2.cpp",
+              "RelativeToolTip": "Project2\\Project2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-15T23:31:29.319Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TEAMSPIRIT_APPLICATION\\",
+  "WorkspaceRootPath": "C:\\Local_repos\\Portfolio\\C\u002B\u002B code\\job_APPLICATION\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{962FF875-788A-4365-964B-9346A4FA97AF}|TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.vcxproj|C:\\Users\\user\\source\\repos\\TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{962FF875-788A-4365-964B-9346A4FA97AF}|TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.vcxproj|C:\\Local_repos\\Portfolio\\C\u002B\u002B code\\job_APPLICATION\\TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{962FF875-788A-4365-964B-9346A4FA97AF}|TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.vcxproj|solutionrelative:TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TEAMSPIRIT_APPLICATION.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.cpp",
+              "DocumentMoniker": "C:\\Local_repos\\Portfolio\\C\u002B\u002B code\\job_APPLICATION\\TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.cpp",
               "RelativeDocumentMoniker": "TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.cpp",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.cpp",
+              "ToolTip": "C:\\Local_repos\\Portfolio\\C\u002B\u002B code\\job_APPLICATION\\TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.cpp",
               "RelativeToolTip": "TEAMSPIRIT_APPLICATION\\TEAMSPIRIT_APPLICATION.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-13T11:55:36.851Z",
               "EditorCaption": ""
